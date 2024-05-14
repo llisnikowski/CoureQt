@@ -8,6 +8,9 @@ int main(int argc, char *argv[])
 
     Root root;
 
+    root.demoMetaObject();
+    root.demoMetaEnum();
+
     return 0;
 }
 
